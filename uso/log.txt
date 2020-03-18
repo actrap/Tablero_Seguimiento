@@ -1,0 +1,5 @@
+usuario, Fecha, Tipo
+cgodoy,17-mar-2020 16:24:33,1
+AFMIRAND,17-mar-2020 16:32:02,0
+afmirand,17-mar-2020 16:32:09,1
+ygonzaln,17-mar-2020 16:38:59,1

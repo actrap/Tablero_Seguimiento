@@ -1,0 +1,379 @@
+Nombre del producto,Familia de productos,Nombre_corto_Producto,Familia,Negocio,Fuente
+Servidores Virtuales en Alianza,Cloud Iaas,Servidores en Alianza,05. Cloud Iaas,3. Triara,
+Nube Privada Virtual,Cloud Iaas,Nube Privada,05. Cloud Iaas,3. Triara,
+Servidor Virtual Negocio,Cloud Iaas,Servidor Virtual Negocio,05. Cloud Iaas,3. Triara,
+Servidores Cloud (Servidores Virtuales),Cloud Iaas,Servidores Cloud,05. Cloud Iaas,3. Triara,
+Azure M,Cloud Iaas,Azure,05. Cloud Iaas,3. Triara,
+Azure T,Cloud Iaas,Azure,05. Cloud Iaas,3. Triara,
+Nube Azure,Cloud Iaas,Azure,05. Cloud Iaas,3. Triara,
+Servidores en Alianza,Cloud Iaas,Servidores en Alianza,05. Cloud Iaas,3. Triara,
+Seguridad Internet,Cloud Saas,Seguridad Internet,06. Cloud Saas,3. Triara,
+Dominios,Cloud Saas,Dominios,06. Cloud Saas,3. Triara,
+Office 365,Cloud Saas,Office 365,06. Cloud Saas,3. Triara,
+Gestión de Correo Exchange,Cloud Saas,Gestión de Correo Exchange,06. Cloud Saas,3. Triara,
+Hospedaje Web / Presencia Web,Cloud Saas,Hospedaje Web / Presencia Web,06. Cloud Saas,3. Triara,
+Respaldo de PC y Servidores,Cloud Saas,Respaldo de PC y Servidores,06. Cloud Saas,3. Triara,
+Diseño de Pagina Web,Cloud Saas,Diseño de Pagina Web,06. Cloud Saas,3. Triara,
+Seguridad Negocios,Cloud Saas,Seguridad Negocios,06. Cloud Saas,3. Triara,
+Coubicación,Coubicación y Hosting,Coubicación,07. Coubicación y Hosting,3. Triara,
+Hospedaje Dedicado,Coubicación y Hosting,Hospedaje Dedicado,07. Coubicación y Hosting,3. Triara,
+Instalaciones Físicas,Coubicación y Hosting,Instalaciones Físicas,07. Coubicación y Hosting,3. Triara,
+Servicios de Centros de Datos de Alta Disponibilidad Nivel III,Coubicación y Hosting,Centros Regionales,07. Coubicación y Hosting,3. Triara,
+Equipo Triara,Coubicación y Hosting,Equipo Triara,07. Coubicación y Hosting,3. Triara,
+Enlaces Dedicados con clase de Servicio,Enlaces,Enlaces,13. Enlaces,5. Conectividad,
+Enlaces Dedicados sin clase de Servicio,Enlaces,Enlaces,13. Enlaces,5. Conectividad,
+Equipo Red Uno,Equipamiento,Equipamiento,99. Equipo,7. Otros,
+Comunica Plus,Equipamiento,Comunica Plus,02. Colaboración,1. Colaboración,
+Comunica Plus Hotelero,Equipamiento,Comunica Plus,02. Colaboración,1. Colaboración,
+Internet Directo Empresarial,IDE,Internet Directo Empresarial,12. Internet,5. Conectividad,
+Conectividad Triara,IDE,Conectividad Triara,12. Internet,5. Conectividad,
+Internet Directo Negocio,IDE,Internet Directo Negocio,12. Internet,5. Conectividad,
+IDE + PEXA (Paquetes Modulares),IDE,Paquetes Modulares,12. Internet,5. Conectividad,
+Acceso a la Red Academica (RI3),IDE,Acceso a la Red Academica (RI3),12. Internet,5. Conectividad,
+Satelital,IDE,Satelital,12. Internet,5. Conectividad,
+IDE Bajo Demanda,IDE,IDE Bajo Demanda,12. Internet,5. Conectividad,
+WiFi Negocio Básico,Internet Banda Ancha,WiFi Básico,03. WiFi,2. Admin de Red,
+Infinitum Negocio,Internet Banda Ancha,Infinitum,12. Internet,5. Conectividad,
+Infinitum Empresa (simétrico),Internet Banda Ancha,Infinitum,12. Internet,5. Conectividad,
+Red Privada de Sucursales,IP/MPLS,RPV Sucursales,11. RPV,5. Conectividad,
+RPV Multiservicio,IP/MPLS,RPV Corporativa,11. RPV,5. Conectividad,
+RPV Conectividad Triara,IP/MPLS,RPV Conectividad Triara,11. RPV,5. Conectividad,
+RPV Conexión Privada Empresarial,IP/MPLS,RPV Empresarial,11. RPV,5. Conectividad,
+RPV Satelital,IP/MPLS,RPV Satelital,11. RPV,5. Conectividad,
+Multi VRF,IP/MPLS,Multi VRF,11. RPV,5. Conectividad,
+RPV Conexión Segura,IP/MPLS,RPV Conexión Segura,11. RPV,5. Conectividad,
+RPV Corporativa,IP/MPLS,RPV Corporativa,11. RPV,5. Conectividad,
+RPV Sucursales,IP/MPLS,RPV Sucursales,11. RPV,5. Conectividad,
+RPV Empresarial,IP/MPLS,RPV Empresarial,11. RPV,5. Conectividad,
+Total de Importe,Proyecto Especial,Proyecto Especial,97. Solución No Existente,7. Otros,
+Total de Proyecto Especial,Proyecto Especial,Proyecto Especial,97. Solución No Existente,7. Otros,
+Managed Hosting en Alianza,SAAI - Servicios Administrados,Managed Hosting,08. Servicios Administrados,3. Triara,
+"Respaldo, Almacenamiento y Recuperacion",SAAI - Servicios Administrados,"Respaldo, Almacenamiento y Recuperacion",08. Servicios Administrados,3. Triara,
+Servicios Administrados de TI,SAAI - Servicios Administrados,Servicios Administrados de TI,08. Servicios Administrados,3. Triara,
+Servicio de Gestión de Aplicaciones SAP,SAAI - Servicios Administrados,Gestión de Aplicaciones SAP,08. Servicios Administrados,3. Triara,
+Sitio Alterno para Continuidad de Negocio,SAAI - Servicios Administrados,Sitio Alterno,08. Servicios Administrados,3. Triara,
+Virtualización de Aplicaciones,SAAI - Servicios Administrados,Virtualización de Aplicaciones,08. Servicios Administrados,3. Triara,
+Servicio de Gestión de Aplicaciones: Nube y Gestión SAP HANA,SAAI - Servicios Administrados,Gestión de Aplicaciones SAP,08. Servicios Administrados,3. Triara,
+Servicio de Gestión de Aplicaciones: Oracle,SAAI - Servicios Administrados,Gestión de Aplicaciones Oracle,08. Servicios Administrados,3. Triara,
+Escritorios Virtuales,SAAI - Servicios Administrados,Virtualización de Aplicaciones,08. Servicios Administrados,3. Triara,
+Video Vigilancia Avanzada (VIVA),Sistema Integral de Seguridad,VIVA,14. Sistema Integral de Seguridad,6. Sol de Negocio,
+"CIAE (Centro Integral de Atención a Emergencias, 066)",Sistema Integral de Seguridad,"CIAE (Centro Integral de Atención a Emergencias, 066)",14. Sistema Integral de Seguridad,6. Sol de Negocio,
+SIS Plataforma 911,Sistema Integral de Seguridad,SIS Plataforma 911,14. Sistema Integral de Seguridad,6. Sol de Negocio,
+CIAEM (Centro Integral de Atención a Emergencias Municipal),Sistema Integral de Seguridad,CIAEM (Centro Integral de Atención a Emergencias Municipal),14. Sistema Integral de Seguridad,6. Sol de Negocio,
+Expediente Clínico Electrónico,Solución Integral de Salud Administrada,Expediente Clínico Electrónico,15. Salud,6. Sol de Negocio,
+Solución No Existente - Cloud y TI,Solución No Existente - Cloud y TI,Solución No Existente - Cloud y TI,97. Solución No Existente,7. Otros,
+Solución No Existente - Conectividad e IP,Solución No Existente - Conectividad e IP,Solución No Existente - Conectividad e IP,97. Solución No Existente,7. Otros,
+Solución No Existente - Sol Negocios,Solución No Existente - Sol Negocios,Solución No Existente - Sol Negocios,97. Solución No Existente,7. Otros,
+Solución no Existente UN1,Solución no Existente UN1,Solución no Existente UN1,97. Solución No Existente,7. Otros,
+Solución no Existente UN2,Solución no Existente UN2,Solución no Existente UN2,97. Solución No Existente,7. Otros,
+Solución no Existente UN3,Solución no Existente UN3,Solución no Existente UN3,97. Solución No Existente,7. Otros,
+Puerto Extendido Administrado,Soluciones Administradas de Red,Redes Administradas,04. Gestión de Red,2. Admin de Red,
+WiFi Negocio Avanzado,Soluciones Administradas de Red,WiFi Avanzado,03. WiFi,2. Admin de Red,
+LAN Management,Soluciones Administradas de Red,Redes Administradas,04. Gestión de Red,2. Admin de Red,
+Redes Administradas,Soluciones Administradas de Red,Redes Administradas,04. Gestión de Red,2. Admin de Red,
+Administración de Dispositivos Móviles - MDM,Soluciones Administradas de Red,Administración de Dispositivos Móviles - MDM,04. Gestión de Red,2. Admin de Red,
+Servicios Profesionales,Soluciones Administradas de Red,Servicios Profesionales,04. Gestión de Red,2. Admin de Red,
+Señalización Digital,Soluciones Administradas de Red,Señalización Digital,04. Gestión de Red,2. Admin de Red,
+GIA (Gestión Inteligente de Aplicaciones),Soluciones Administradas de Red,GIA (Gestión Inteligente de Aplicaciones),04. Gestión de Red,2. Admin de Red,
+Comunicaciones Unificadas Administradas (CUAD),Soluciones de Colaboración,CUAD Broadsoft,01. CUAD,1. Colaboración,
+Cloud PBX,Soluciones de Colaboración,Cloud PBX,02. Colaboración,1. Colaboración,
+Comunicaciones Unificadas Avanzadas (Avaya),Soluciones de Colaboración,CUAD Avaya,01. CUAD,1. Colaboración,
+Troncal IP,Soluciones de Colaboración,Troncal IP,02. Colaboración,1. Colaboración,
+Videoconferencia Telmex,Soluciones de Colaboración,Videoconferencia Telmex,02. Colaboración,1. Colaboración,
+Telepresencia Puerto Extendido,Soluciones de Colaboración,Telepresencia Puerto Extendido,02. Colaboración,1. Colaboración,
+Comunicaciones Unificadas Avanzadas (Broadsoft),Soluciones de Colaboración,CUAD Broadsoft,01. CUAD,1. Colaboración,
+Contact Center Administrado,Soluciones de Colaboración,Contact Center,02. Colaboración,1. Colaboración,
+Interaction Center,Soluciones de Colaboración,Contact Center,02. Colaboración,1. Colaboración,
+Comunicaciones Unificadas Avanzadas (Cisco),Soluciones de Colaboración,CUAD Cisco,01. CUAD,1. Colaboración,
+Audioconferencia Telmex,Soluciones de Colaboración,Audioconferencia Telmex,02. Colaboración,1. Colaboración,
+Administración y control telefónico,Soluciones de Colaboración,Administración y control telefónico,02. Colaboración,1. Colaboración,
+Video Conferencia HD,Soluciones de Colaboración,Video Conferencia HD,02. Colaboración,1. Colaboración,
+Conferencia Web,Soluciones de Colaboración,Conferencia Web,02. Colaboración,1. Colaboración,
+Seguridad Perimetral Administrada (SPA),Soluciones de Seguridad Informática,SPA,10. Seguridad Paquetizados,4. Scitum,
+Seguridad Administrada (SOC Scitum),Soluciones de Seguridad Informática,SOC Scitum,09. Seguridad,4. Scitum,
+Tráfico Seguro,Soluciones de Seguridad Informática,Tráfico Seguro,10. Seguridad Paquetizados,4. Scitum,
+Equipo Scitum,Soluciones de Seguridad Informática,Equipo Scitum,09. Seguridad,4. Scitum,
+Consultoría Scitum,Soluciones de Seguridad Informática,Consultoría Scitum,09. Seguridad,4. Scitum,
+SPAi,Soluciones de Seguridad Informática,SPAi,10. Seguridad Paquetizados,4. Scitum,
+Ciberseguridad,Soluciones de Seguridad Informática,Ciberseguridad,09. Seguridad,4. Scitum,
+Filtrado de Contenidos,Soluciones de Seguridad Informática,Filtrado de Contenidos,10. Seguridad Paquetizados,4. Scitum,
+Paquetes,Soluciones de Voz,Paquetes,98.Voz,7. Otros,
+Troncales Digitales,Soluciones de Voz,Troncales Digitales,98.Voz,7. Otros,
+Líneas comerciales /LDI,Soluciones de Voz,Líneas comerciales /LDI,98.Voz,7. Otros,
+Números 800,Soluciones de Voz,Números 800,98.Voz,7. Otros,
+Audioconferencia,Soluciones de Voz,Audioconferencia,02. Colaboración,1. Colaboración,
+Gestión Documental (PEM),Vertical E-Gobierno,Gestión Documental,06. Cloud Saas,3. Triara,
+Capacitación y Consultoría en Mejores Prácticas de TI,Vertical Privada,Consultoría en Mejores Prácticas de TI,16. Soluciones de Negocio,6. Sol de Negocio,
+Consultoria,Vertical Privada,Consultoria,16. Soluciones de Negocio,6. Sol de Negocio,
+"ALM (Fábrica SW, Testing, Staffing)",Vertical Privada,ALM,16. Soluciones de Negocio,6. Sol de Negocio,
+Factura Electrónica,Vertical Privada,Factura Electrónica,06. Cloud Saas,3. Triara,
+App Hotelera,Vertical Privada,App Hotelera,06. Cloud Saas,3. Triara,
+ERP Industria,Vertical Privada,ERP Industria,06. Cloud Saas,3. Triara,
+Aspel,Vertical Privada,Aspel,06. Cloud Saas,3. Triara,
+GestiOne (SAP B1),Vertical Privada,GestiOne (SAP B1),08. Servicios Administrados,3. Triara,
+WiFi Analíticos,Soluciones Administradas de Red,WiFi Analíticos,03. WiFi,2. Admin de Red,
+Almacenamiento de Alto Desempeño,Cloud Iaas,Almacenamiento de Alto Desempeño,05. Cloud Iaas,3. Triara,
+Almacenamiento en la Nube,Cloud Iaas,Almacenamiento en la Nube,05. Cloud Iaas,3. Triara,
+Correo Exchange,Cloud Saas,Correo Exchange,06. Cloud Saas,3. Triara,
+SD-WAN Telmex,IP/MPLS,SD-WAN Telmex,11. RPV,5. Conectividad,
+Comunicaciones Unificadas Avanzadas para Hoteles,Soluciones de Colaboración,CUAD Hoteles,01. CUAD,1. Colaboración,
+Optimización de Infraestructura TI,SAAI - Servicios Administrados,Optimización de Infraestructura TI,08. Servicios Administrados,3. Triara,
+Migración a la Nube,Vertical Privada,Migración a la Nube,08. Servicios Administrados,3. Triara,
+Migración SAP,Vertical Privada,Migración SAP,08. Servicios Administrados,3. Triara,
+Proyecto Especial ALM,Vertical Privada,ALM,16. Soluciones de Negocio,6. Sol de Negocio,
+G Suite,Cloud Saas,G Suite,06. Cloud Saas,3. Triara,FactM
+Chatbot,Vertical Privada,Chatbot,16. Soluciones de Negocio,6. Sol de Negocio,
+Enlaces_LAN2LAN,IP/MPLS,Enlaces,13. Enlaces,5. Conectividad,
+Enlaces_INTCNX,IP/MPLS,Enlaces,13. Enlaces,5. Conectividad,
+NA,NA,NA,97. Solución No Existente,7. Otros,SACTEL
+,,,97. Solución No Existente,7. Otros,SACTEL
+SERVIDORES CLOUD (SERVIDORES VIRTUALES),CLOUD IAAS,Servidores Cloud,05. Cloud Iaas,3. Triara,SACTEL
+ALMACENAMIENTO DE ALTO DESEMPEYO,CLOUD IAAS,Almacenamiento de Alto Desempeño,05. Cloud Iaas,3. Triara,SACTEL
+ALMACENAMIENTO EN LA NUBE,CLOUD IAAS,Almacenamiento en la Nube,05. Cloud Iaas,3. Triara,SACTEL
+AZURE M,CLOUD IAAS,Azure,05. Cloud Iaas,3. Triara,SACTEL
+AZURE T,CLOUD IAAS,Azure,05. Cloud Iaas,3. Triara,SACTEL
+NUBE AZURE,CLOUD IAAS,Azure,05. Cloud Iaas,3. Triara,SACTEL
+NUBE PRIVADA VIRTUAL,CLOUD IAAS,Nube Privada,05. Cloud Iaas,3. Triara,SACTEL
+SERVIDOR VIRTUAL NEGOCIO,CLOUD IAAS,Servidor Virtual Negocio,05. Cloud Iaas,3. Triara,SACTEL
+SERVIDORES EN ALIANZA,CLOUD IAAS,Servidores en Alianza,05. Cloud Iaas,3. Triara,SACTEL
+SERVIDORES VIRTUALES EN ALIANZA,CLOUD IAAS,Servidores en Alianza,05. Cloud Iaas,3. Triara,SACTEL
+CORREO EXCHANGE,CLOUD SAAS,Correo Exchange,06. Cloud Saas,3. Triara,SACTEL
+DISEYO DE PAGINA WEB,CLOUD SAAS,Diseño de Pagina Web,06. Cloud Saas,3. Triara,SACTEL
+DOMINIOS,CLOUD SAAS,Dominios,06. Cloud Saas,3. Triara,SACTEL
+G SUITE,CLOUD SAAS,G Suite,06. Cloud Saas,3. Triara,SACTEL
+HOSPEDAJE WEB / PRESENCIA WEB,CLOUD SAAS,Hospedaje Web / Presencia Web,06. Cloud Saas,3. Triara,SACTEL
+OFFICE 365,CLOUD SAAS,Office 365,06. Cloud Saas,3. Triara,SACTEL
+RESPALDO DE PC Y SERVIDORES,CLOUD SAAS,Respaldo de PC y Servidores,06. Cloud Saas,3. Triara,SACTEL
+SEGURIDAD INTERNET,CLOUD SAAS,Seguridad Internet,06. Cloud Saas,3. Triara,SACTEL
+SEGURIDAD NEGOCIOS,CLOUD SAAS,Seguridad Negocios,06. Cloud Saas,3. Triara,SACTEL
+GESTION DE CORREO EXCHANGE,CLOUD SAAS,Gestión de Correo Exchange,06. Cloud Saas,3. Triara,SACTEL
+COUBICACION,COUBICACION Y HOSTING,Coubicación,07. Coubicación y Hosting,3. Triara,SACTEL
+EQUIPO TRIARA,COUBICACION Y HOSTING,Equipo Triara,07. Coubicación y Hosting,3. Triara,SACTEL
+HOSPEDAJE DEDICADO,COUBICACION Y HOSTING,Hospedaje Dedicado,07. Coubicación y Hosting,3. Triara,SACTEL
+INSTALACIONES FISICAS,COUBICACION Y HOSTING,Instalaciones Físicas,07. Coubicación y Hosting,3. Triara,SACTEL
+SERVICIOS DE CENTROS DE DATOS DE ALTA DISPONIBILIDAD NIVEL III,COUBICACION Y HOSTING,Centros Regionales,07. Coubicación y Hosting,3. Triara,SACTEL
+ENLACES DEDICADOS CON CLASE DE SERVICIO,ENLACES,Enlaces,13. Enlaces,5. Conectividad,SACTEL
+ENLACES DEDICADOS SIN CLASE DE SERVICIO,ENLACES,Enlaces,13. Enlaces,5. Conectividad,SACTEL
+COMUNICA PLUS,EQUIPAMIENTO,Comunica Plus,02. Colaboración,1. Colaboración,SACTEL
+COMUNICA PLUS HOTELERO,EQUIPAMIENTO,Comunica Plus,02. Colaboración,1. Colaboración,SACTEL
+EQUIPO RED UNO,EQUIPAMIENTO,Equipamiento,99. Equipo,7. Otros,SACTEL
+ACCESO A LA RED ACADEMICA (RI3),IDE,Acceso a la Red Academica (RI3),12. Internet,5. Conectividad,SACTEL
+CONECTIVIDAD TRIARA,IDE,Conectividad Triara,12. Internet,5. Conectividad,SACTEL
+IDE + PEXA (PAQUETES MODULARES),IDE,Paquetes Modulares,12. Internet,5. Conectividad,SACTEL
+IDE BAJO DEMANDA,IDE,IDE Bajo Demanda,12. Internet,5. Conectividad,SACTEL
+INTERNET DIRECTO EMPRESARIAL,IDE,Internet Directo Empresarial,12. Internet,5. Conectividad,SACTEL
+INTERNET DIRECTO NEGOCIO,IDE,Internet Directo Negocio,12. Internet,5. Conectividad,SACTEL
+SATELITAL,IDE,Satelital,12. Internet,5. Conectividad,SACTEL
+INFINITUM EMPRESA (SIMETRICO),INTERNET BANDA ANCHA,Infinitum,12. Internet,5. Conectividad,SACTEL
+INFINITUM NEGOCIO,INTERNET BANDA ANCHA,Infinitum,12. Internet,5. Conectividad,SACTEL
+WIFI NEGOCIO BASICO,INTERNET BANDA ANCHA,WiFi Básico,03. WiFi,2. Admin de Red,SACTEL
+RED PRIVADA DE SUCURSALES,IP/MPLS,RPV Sucursales,11. RPV,5. Conectividad,SACTEL
+RPV CONEXION PRIVADA EMPRESARIAL,IP/MPLS,RPV Empresarial,11. RPV,5. Conectividad,SACTEL
+RPV MULTISERVICIO,IP/MPLS,RPV Corporativa,11. RPV,5. Conectividad,SACTEL
+TOTAL DE IMPORTE,PROYECTO ESPECIAL,Proyecto Especial,97. Solución No Existente,7. Otros,SACTEL
+TOTAL DE PROYECTO ESPECIAL,PROYECTO ESPECIAL,Proyecto Especial,97. Solución No Existente,7. Otros,SACTEL
+MULTI VRF,RPV,Multi VRF,11. RPV,5. Conectividad,SACTEL
+RPV CONECTIVIDAD TRIARA,RPV,RPV Conectividad Triara,11. RPV,5. Conectividad,SACTEL
+RPV CONEXION SEGURA,RPV,RPV Conexion Segura,11. RPV,5. Conectividad,SACTEL
+RPV CORPORATIVA,RPV,RPV Corporativa,11. RPV,5. Conectividad,SACTEL
+RPV EMPRESARIAL,RPV,RPV Empresarial,11. RPV,5. Conectividad,SACTEL
+RPV SATELITAL,RPV,RPV Satelital,11. RPV,5. Conectividad,SACTEL
+RPV SUCURSALES,RPV,RPV Sucursales,11. RPV,5. Conectividad,SACTEL
+SD-WAN TELMEX,RPV,SD-WAN Telmex,11. RPV,5. Conectividad,SACTEL
+ESCRITORIOS VIRTUALES,SAAI - SERVICIOS ADMINISTRADOS,Escritorios Virtuales,08. Servicios Administrados,3. Triara,SACTEL
+MANAGED HOSTING EN ALIANZA,SAAI - SERVICIOS ADMINISTRADOS,Managed Hosting,08. Servicios Administrados,3. Triara,SACTEL
+OPTIMIZACION DE INFRAESTRUCTURA TI,SAAI - SERVICIOS ADMINISTRADOS,Optimización de Infraestructura TI,08. Servicios Administrados,3. Triara,SACTEL
+"RESPALDO, ALMACENAMIENTO Y RECUPERACION",SAAI - SERVICIOS ADMINISTRADOS,"Respaldo, Almacenamiento y Recuperacion",08. Servicios Administrados,3. Triara,SACTEL
+SERVICIO DE GESTION DE APLICACIONES SAP,SAAI - SERVICIOS ADMINISTRADOS,Gestión de Aplicaciones SAP,08. Servicios Administrados,3. Triara,SACTEL
+SERVICIO DE GESTION DE APLICACIONES: NUBE Y GESTION SAP HANA,SAAI - SERVICIOS ADMINISTRADOS,Gestión de Aplicaciones SAP,08. Servicios Administrados,3. Triara,SACTEL
+SERVICIO DE GESTION DE APLICACIONES: ORACLE,SAAI - SERVICIOS ADMINISTRADOS,Gestión de Aplicaciones Oracle,08. Servicios Administrados,3. Triara,SACTEL
+SERVICIOS ADMINISTRADOS DE TI,SAAI - SERVICIOS ADMINISTRADOS,Servicios Administrados de TI,08. Servicios Administrados,3. Triara,SACTEL
+SITIO ALTERNO PARA CONTINUIDAD DE NEGOCIO,SAAI - SERVICIOS ADMINISTRADOS,Sitio Alterno,08. Servicios Administrados,3. Triara,SACTEL
+VIRTUALIZACION DE APLICACIONES,SAAI - SERVICIOS ADMINISTRADOS,Virtualización de Aplicaciones,08. Servicios Administrados,3. Triara,SACTEL
+"CIAE (CENTRO INTEGRAL DE ATENCION A EMERGENCIAS, 066)",SISTEMA INTEGRAL DE SEGURIDAD,"CIAE (Centro Integral de Atención a Emergencias, 066)",14. Sistema Integral de Seguridad,6. Sol de Negocio,SACTEL
+CIAEM (CENTRO INTEGRAL DE ATENCION A EMERGENCIAS MUNICIPAL),SISTEMA INTEGRAL DE SEGURIDAD,CIAEM (Centro Integral de Atención a Emergencias Municipal),14. Sistema Integral de Seguridad,6. Sol de Negocio,SACTEL
+SIS PLATAFORMA 911,SISTEMA INTEGRAL DE SEGURIDAD,SIS Plataforma 911,14. Sistema Integral de Seguridad,6. Sol de Negocio,SACTEL
+VIDEO VIGILANCIA AVANZADA (VIVA),SISTEMA INTEGRAL DE SEGURIDAD,VIVA,14. Sistema Integral de Seguridad,6. Sol de Negocio,SACTEL
+EXPEDIENTE CLINICO ELECTRONICO,SOLUCION INTEGRAL DE SALUD ADMINISTRADA,Expediente Clínico Electrónico,15. Salud,6. Sol de Negocio,SACTEL
+SOLUCION NO EXISTENTE - CLOUD Y TI,SOLUCION NO EXISTENTE - CLOUD Y TI,Solución No Existente - Cloud y TI,97. Solución No Existente,7. Otros,SACTEL
+SOLUCION NO EXISTENTE - CONECTIVIDAD E IP,SOLUCION NO EXISTENTE - CONECTIVIDAD E IP,Solución No Existente - Conectividad e IP,97. Solución No Existente,7. Otros,SACTEL
+SOLUCION NO EXISTENTE - SOL NEGOCIOS,SOLUCION NO EXISTENTE - SOL NEGOCIOS,Solución No Existente - Sol Negocios,97. Solución No Existente,7. Otros,SACTEL
+SOLUCION NO EXISTENTE UN1,SOLUCION NO EXISTENTE UN1,Solucion No Existente Un1,97. Solución No Existente,7. Otros,SACTEL
+SOLUCION NO EXISTENTE UN2,SOLUCION NO EXISTENTE UN2,Solucion No Existente Un2,97. Solución No Existente,7. Otros,SACTEL
+SOLUCION NO EXISTENTE UN3,SOLUCION NO EXISTENTE UN3,Solucion No Existente Un3,97. Solución No Existente,7. Otros,SACTEL
+ADMINISTRACION DE DISPOSITIVOS MOVILES - MDM,SOLUCIONES ADMINISTRADAS DE RED,Administración de Dispositivos Móviles - MDM,04. Gestión de Red,2. Admin de Red,SACTEL
+GIA (GESTION INTELIGENTE DE APLICACIONES),SOLUCIONES ADMINISTRADAS DE RED,GIA (Gestión Inteligente de Aplicaciones),04. Gestión de Red,2. Admin de Red,SACTEL
+LAN MANAGEMENT,SOLUCIONES ADMINISTRADAS DE RED,Redes Administradas,04. Gestión de Red,2. Admin de Red,SACTEL
+PUERTO EXTENDIDO ADMINISTRADO,SOLUCIONES ADMINISTRADAS DE RED,Redes Administradas,04. Gestión de Red,2. Admin de Red,SACTEL
+REDES ADMINISTRADAS,SOLUCIONES ADMINISTRADAS DE RED,Redes Administradas,04. Gestión de Red,2. Admin de Red,SACTEL
+SERVICIOS PROFESIONALES,SOLUCIONES ADMINISTRADAS DE RED,Servicios Profesionales,04. Gestión de Red,2. Admin de Red,SACTEL
+SEYALIZACION DIGITAL,SOLUCIONES ADMINISTRADAS DE RED,Señalización Digital,04. Gestión de Red,2. Admin de Red,SACTEL
+WIFI ANALITICOS,SOLUCIONES ADMINISTRADAS DE RED,WiFi Analíticos,03. WiFi,2. Admin de Red,SACTEL
+WIFI NEGOCIO AVANZADO,SOLUCIONES ADMINISTRADAS DE RED,WiFi Avanzado,03. WiFi,2. Admin de Red,SACTEL
+ADMINISTRACION Y CONTROL TELEFONICO,SOLUCIONES DE COLABORACION,AyCT,02. Colaboración,1. Colaboración,SACTEL
+AUDIOCONFERENCIA TELMEX,SOLUCIONES DE COLABORACION,Audioconferencia Telmex,02. Colaboración,1. Colaboración,SACTEL
+CCA,SOLUCIONES DE COLABORACION,Contact Center,02. Colaboración,1. Colaboración,SACTEL
+CLOUD PBX,SOLUCIONES DE COLABORACION,Cloud PBX,02. Colaboración,1. Colaboración,SACTEL
+COMUNICACIONES UNIFICADAS ADMINISTRADAS (CUAD),SOLUCIONES DE COLABORACION,CUAD Broadsoft,01. CUAD,1. Colaboración,SACTEL
+COMUNICACIONES UNIFICADAS AVANZADAS (AVAYA),SOLUCIONES DE COLABORACION,CUAD Avaya,01. CUAD,1. Colaboración,SACTEL
+COMUNICACIONES UNIFICADAS AVANZADAS (BROADSOFT),SOLUCIONES DE COLABORACION,CUAD Broadsoft,01. CUAD,1. Colaboración,SACTEL
+COMUNICACIONES UNIFICADAS AVANZADAS (CISCO),SOLUCIONES DE COLABORACION,CUAD Cisco,01. CUAD,1. Colaboración,SACTEL
+COMUNICACIONES UNIFICADAS AVANZADAS PARA HOTELES,SOLUCIONES DE COLABORACION,CUAD Hoteles,01. CUAD,1. Colaboración,SACTEL
+CONFERENCIA WEB,SOLUCIONES DE COLABORACION,Conferencia Web,02. Colaboración,1. Colaboración,SACTEL
+CONTACT CENTER ADMINISTRADO,SOLUCIONES DE COLABORACION,Contact Center,02. Colaboración,1. Colaboración,SACTEL
+INTERACTION CENTER,SOLUCIONES DE COLABORACION,Contact Center,02. Colaboración,1. Colaboración,SACTEL
+TELEPRESENCIA PUERTO EXTENDIDO,SOLUCIONES DE COLABORACION,Telepresencia Puerto Extendido,02. Colaboración,1. Colaboración,SACTEL
+TRONCAL IP,SOLUCIONES DE COLABORACION,Troncal IP,02. Colaboración,1. Colaboración,SACTEL
+VIDEO CONFERENCIA HD,SOLUCIONES DE COLABORACION,Video Conferencia HD,02. Colaboración,1. Colaboración,SACTEL
+VIDEOCONFERENCIA TELMEX,SOLUCIONES DE COLABORACION,Videoconferencia Telmex,02. Colaboración,1. Colaboración,SACTEL
+CIBERSEGURIDAD,SOLUCIONES DE SEGURIDAD INFORMATICA,Ciberseguridad,09. Seguridad,4. Scitum,SACTEL
+CONSULTORIA SCITUM,SOLUCIONES DE SEGURIDAD INFORMATICA,Consultoría Scitum,09. Seguridad,4. Scitum,SACTEL
+EQUIPO SCITUM,SOLUCIONES DE SEGURIDAD INFORMATICA,Equipo Scitum,09. Seguridad,4. Scitum,SACTEL
+FILTRADO DE CONTENIDOS,SOLUCIONES DE SEGURIDAD INFORMATICA,Filtrado de Contenidos,10. Seguridad Paquetizados,4. Scitum,SACTEL
+SEGURIDAD ADMINISTRADA (SOC SCITUM),SOLUCIONES DE SEGURIDAD INFORMATICA,SOC Scitum,09. Seguridad,4. Scitum,SACTEL
+SEGURIDAD PERIMETRAL ADMINISTRADA (SPA),SOLUCIONES DE SEGURIDAD INFORMATICA,SPA,10. Seguridad Paquetizados,4. Scitum,SACTEL
+SPAI,SOLUCIONES DE SEGURIDAD INFORMATICA,SPAi,10. Seguridad Paquetizados,4. Scitum,SACTEL
+TRAFICO SEGURO,SOLUCIONES DE SEGURIDAD INFORMATICA,Tráfico Seguro,10. Seguridad Paquetizados,4. Scitum,SACTEL
+AUDIOCONFERENCIA,SOLUCIONES DE VOZ,Audioconferencia,02. Colaboración,1. Colaboración,SACTEL
+LINEAS COMERCIALES /LDI,SOLUCIONES DE VOZ,Líneas comerciales /LDI,98.Voz,7. Otros,SACTEL
+NUMEROS 800,SOLUCIONES DE VOZ,Números 800,98.Voz,7. Otros,SACTEL
+PAQUETES,SOLUCIONES DE VOZ,Paquetes,98.Voz,7. Otros,SACTEL
+TRONCALES DIGITALES,SOLUCIONES DE VOZ,Troncales Digitales,98.Voz,7. Otros,SACTEL
+ARMONIZACION CONTABLE,VERTICAL E-GOBIERNO,Armonización Contable,16. Soluciones de Negocio,6. Sol de Negocio,SACTEL
+GESTION DOCUMENTAL (PEM),VERTICAL E-GOBIERNO,Gestión Documental,06. Cloud Saas,3. Triara,SACTEL
+"ALM (FABRICA SW, TESTING, STAFFING)",VERTICAL PRIVADA,ALM,16. Soluciones de Negocio,6. Sol de Negocio,SACTEL
+PROYECTO ESPECIAL ALM,VERTICAL PRIVADA,ALM,16. Soluciones de Negocio,6. Sol de Negocio,SACTEL
+APP HOTELERA,VERTICAL PRIVADA,App Hotelera,06. Cloud Saas,3. Triara,SACTEL
+ASPEL,VERTICAL PRIVADA,Aspel,06. Cloud Saas,3. Triara,SACTEL
+CAPACITACION Y CONSULTORIA EN MEJORES PRACTICAS DE TI,VERTICAL PRIVADA,Consultoría en Mejores Prácticas de TI,16. Soluciones de Negocio,6. Sol de Negocio,SACTEL
+CHATBOT,VERTICAL PRIVADA,Chatbot,16. Soluciones de Negocio,6. Sol de Negocio,SACTEL
+CONSULTORIA,VERTICAL PRIVADA,Consultoria,16. Soluciones de Negocio,6. Sol de Negocio,SACTEL
+ERP INDUSTRIA,VERTICAL PRIVADA,ERP Industria,06. Cloud Saas,3. Triara,SACTEL
+FACTURA ELECTRONICA,VERTICAL PRIVADA,Factura Electrónica,06. Cloud Saas,3. Triara,SACTEL
+GESTIONE (SAP B1),VERTICAL PRIVADA,GestiOne (SAP B1),08. Servicios Administrados,3. Triara,SACTEL
+MIGRACION A LA NUBE,VERTICAL PRIVADA,Migración a la Nube,08. Servicios Administrados,3. Triara,SACTEL
+MIGRACION SAP,VERTICAL PRIVADA,Migración SAP,08. Servicios Administrados,3. Triara,SACTEL
+DATA CENTER VIRTUAL,CLOUD Iaas,Data Center Virtual,05. Cloud Iaas,3. Triara,CECOR
+SERVIDOR VIRTUAL,CLOUD Iaas,Servidor Virtual,05. Cloud Iaas,3. Triara,CECOR
+SERVIDOR VIRTUAL AMX,CLOUD Iaas,Servidor Virtual AMX,05. Cloud Iaas,3. Triara,CECOR
+SERVIDOR VIRTUAL AZURE,CLOUD Iaas,Azure,05. Cloud Iaas,3. Triara,CECOR
+SERVIDOR VIRTUAL NEGOCIO OTROS,CLOUD Iaas,Servidor Virtual Negocio,05. Cloud Iaas,3. Triara,CECOR
+SERVIDOR VIRTUAL OTRO,CLOUD Iaas,Servidor Virtual (Otros),05. Cloud Iaas,3. Triara,CECOR
+SERVIDOR VIRTUAL OTRO AMX,CLOUD Iaas,Servidor Virtual (Otros),05. Cloud Iaas,3. Triara,CECOR
+CORREO EXCHANGE ADMINISTRADO,Cloud Saas,Correo Exchange Administrado,06. Cloud Saas,3. Triara,CECOR
+CORREO NEGOCIOS,Cloud Saas,Correo Negocios,06. Cloud Saas,3. Triara,CECOR
+HOSPEDAJE WEB,Cloud Saas,Hospedaje Web,06. Cloud Saas,3. Triara,CECOR
+PRESENCIA WEB,Cloud Saas,Presencia Web,06. Cloud Saas,3. Triara,CECOR
+RESPALDO COMPUTADORAS BASICO,Cloud Saas,Respaldo Computadoras Basico,06. Cloud Saas,3. Triara,CECOR
+RESPALDO COMPUTADORAS EMPRESARIAL,Cloud Saas,Respaldo Computadoras Empresarial,06. Cloud Saas,3. Triara,CECOR
+RUMY,Cloud Saas,RUMY,06. Cloud Saas,3. Triara,CECOR
+WEBEX,Cloud Saas,WEBEX,06. Cloud Saas,3. Triara,CECOR
+LADA ENLACE,Enlaces,Enlaces,13. Enlaces,5. Conectividad,CECOR
+LADA ENLACE OTROS,Enlaces,Enlaces,13. Enlaces,5. Conectividad,CECOR
+LADA ENLACE RENOVACION,Enlaces,Enlaces,13. Enlaces,5. Conectividad,CECOR
+SER IP,Enlaces,SER IP,11. RPV,5. Conectividad,CECOR
+(ASOMATE) APARATO TELEFONICO,Equipamiento,(ASOMATE) APARATO TELEFONICO,99. Equipo,7. Otros,CECOR
+(ASOMATE) CELULARES,Equipamiento,(ASOMATE) CELULARES,99. Equipo,7. Otros,CECOR
+(ASOMATE) COMPUTADORA LAP TOP,Equipamiento,(ASOMATE) COMPUTADORA LAP TOP,99. Equipo,7. Otros,CECOR
+(ASOMATE) COMPUTADORA LAPTOP PYME,Equipamiento,(ASOMATE) COMPUTADORA LAPTOP PYME,99. Equipo,7. Otros,CECOR
+(ASOMATE) COMPUTADORA NOTEBOOK,Equipamiento,(ASOMATE) COMPUTADORA NOTEBOOK,99. Equipo,7. Otros,CECOR
+(ASOMATE) COMPUTADORA PC,Equipamiento,(ASOMATE) COMPUTADORA PC,99. Equipo,7. Otros,CECOR
+(ASOMATE) COMPUTADORA PC PYME,Equipamiento,(ASOMATE) COMPUTADORA PC PYME,99. Equipo,7. Otros,CECOR
+(ASOMATE) PERIFERICOS,Equipamiento,(ASOMATE) PERIFERICOS,99. Equipo,7. Otros,CECOR
+(ASOMATE) TABLET,Equipamiento,(ASOMATE) TABLET,99. Equipo,7. Otros,CECOR
+(ASOMATE) TELEVISION,Equipamiento,(ASOMATE) TELEVISION,99. Equipo,7. Otros,CECOR
+COMUNICA PLUS (ADICIONALES),Equipamiento,COMUNICA PLUS (ADICIONALES),99. Equipo,7. Otros,CECOR
+COMUNICA PLUS NEGOCIO,Equipamiento,Comunica Plus Negocio,02. Colaboración,1. Colaboración,CECOR
+EQUIPO,Equipamiento,Equipamiento,99. Equipo,7. Otros,CECOR
+EQUIPO COMUNICACION (ADICIONALES),Equipamiento,Equipamiento,99. Equipo,7. Otros,CECOR
+EQUIPO COMUNICACION ANALOGICO,Equipamiento,Equipamiento,99. Equipo,7. Otros,CECOR
+IDE OTROS,Equipamiento,IDE Otros,99. Equipo,7. Otros,CECOR
+RPV MULTISERVICIOS OTROS,Equipamiento,RPV Multiservicios Otros,99. Equipo,7. Otros,CECOR
+SER IP OTROS,Equipamiento,SER IP Otros,99. Equipo,7. Otros,CECOR
+I-DATA,I-DATA,Internet Directo Negocio,12. Internet,5. Conectividad,CECOR
+CAMBIO DE IDE POR I-DATA,IDE,Internet Directo Negocio,12. Internet,5. Conectividad,CECOR
+IDE,IDE,Internet Directo Empresarial,12. Internet,5. Conectividad,CECOR
+IDE INCREMENTO,IDE,Internet Directo Empresarial,12. Internet,5. Conectividad,CECOR
+IDE RENOVACION,IDE,Internet Directo Empresarial,12. Internet,5. Conectividad,CECOR
+INFINITUM INCREMENTO,Internet Banda Ancha,Infinitum,12. Internet,5. Conectividad,CECOR
+INFINITUM NUEVO,Internet Banda Ancha,Infinitum,12. Internet,5. Conectividad,CECOR
+INFINITUM OTRO,Internet Banda Ancha,Infinitum,12. Internet,5. Conectividad,CECOR
+RPV MULTISERVICIOS,RPV,RPV Empresarial,11. RPV,5. Conectividad,CECOR
+FILTRADO DE CONTENIDO,SERVICIOS ADMIN DE SEGURIDAD,Filtrado De Contenido,10. Seguridad Paquetizados,4. Scitum,CECOR
+SD WAN,SERVICIOS ADMIN DE SEGURIDAD,SD-WAN Telmex,11. RPV,5. Conectividad,CECOR
+SEGURIDAD PERIMETRAL,SERVICIOS ADMIN DE SEGURIDAD,SPA,10. Seguridad Paquetizados,4. Scitum,CECOR
+SEGURIDAD PERIMETRAL INFINITUM,SERVICIOS ADMIN DE SEGURIDAD,SPAi,10. Seguridad Paquetizados,4. Scitum,CECOR
+SEGURIDAD PERIMETRAL OTRO,SERVICIOS ADMIN DE SEGURIDAD,SPA,10. Seguridad Paquetizados,4. Scitum,CECOR
+WIFI NEGOCIO BASICO IMPLEMENTACION,SOLUCIONES ADMINISTRADAS DE RED,Wifi Negocio Basico,03. WiFi,2. Admin de Red,CECOR
+WIFI NEGOCIO OTROS,SOLUCIONES ADMINISTRADAS DE RED,Wifi Negocio Otros,03. WiFi,2. Admin de Red,CECOR
+CENTRO DE DATOS,SOLUCIONES ADMINISTRADOS,Centro de Datos,05. Cloud Iaas,3. Triara,CECOR
+CUAD ADICIONALES,SOLUCIONES DE COLABORACION,CUAD Broadsoft,01. CUAD,1. Colaboración,CECOR
+CUAD BROADSOFT,SOLUCIONES DE COLABORACION,CUAD Broadsoft,01. CUAD,1. Colaboración,CECOR
+TRONCALES IP,SOLUCIONES DE COLABORACION,Troncales IP,02. Colaboración,1. Colaboración,CECOR
+VIDEO CONFERENCIA,SOLUCIONES DE COLABORACION,Video Conferencia,02. Colaboración,1. Colaboración,CECOR
+CONEXION NEGOCIOS,Soluciones de Voz,Conexion Negocios,98.Voz,7. Otros,CECOR
+CONEXION PLUS,Soluciones de Voz,Conexion Plus,98.Voz,7. Otros,CECOR
+CONEXION PREMIUM,Soluciones de Voz,Conexion Premium,98.Voz,7. Otros,CECOR
+LINEAS EN SERVICIO,Soluciones de Voz,Lineas,98.Voz,7. Otros,CECOR
+MULTILINEA NEGOCIO,Soluciones de Voz,Multilinea Negocio,98.Voz,7. Otros,CECOR
+OPCIONES LADA,Soluciones de Voz,Opciones Lada,98.Voz,7. Otros,CECOR
+OPCIONES MAS LLAMADA,Soluciones de Voz,Opciones Mas Llamada,98.Voz,7. Otros,CECOR
+RECUPERACION LD,Soluciones de Voz,Recuperacion LD,98.Voz,7. Otros,CECOR
+RECUPERACION LOCAL,Soluciones de Voz,Recuperacion Local,98.Voz,7. Otros,CECOR
+SRI NUEVO,Soluciones de Voz,SRI,98.Voz,7. Otros,CECOR
+TRONCALES RDI,Soluciones de Voz,Troncales RDI,98.Voz,7. Otros,CECOR
+ASPEL BANCO,VERTICALES,Aspel,06. Cloud Saas,3. Triara,CECOR
+ASPEL CAJA,VERTICALES,Aspel,06. Cloud Saas,3. Triara,CECOR
+ASPEL COI,VERTICALES,Aspel,06. Cloud Saas,3. Triara,CECOR
+ASPEL NOI,VERTICALES,Aspel,06. Cloud Saas,3. Triara,CECOR
+ASPEL OTROS,VERTICALES,Aspel,06. Cloud Saas,3. Triara,CECOR
+ASPEL SAE,VERTICALES,Aspel,06. Cloud Saas,3. Triara,CECOR
+ASPEL SELLADO,VERTICALES,Aspel,06. Cloud Saas,3. Triara,CECOR
+COMBO DIGITAL ADICIONALES,VERTICALES,Combo Digital Adicionales,06. Cloud Saas,3. Triara,CECOR
+EXPEDIENTE CLINICO BASICO,VERTICALES,Expediente Clínico Electrónico,15. Salud,6. Sol de Negocio,CECOR
+FACTURACION ELECTRONICA,VERTICALES,Facturacion Electronica,06. Cloud Saas,3. Triara,CECOR
+NUBE AWS,CLOUD IAAS,Nube AWS,05. Cloud Iaas,3. Triara,SACTEL
+INFINITUM,Internet Banda Ancha,Infinitum,12. Internet,5. Conectividad,SACTEL
+GESTION VEHICULAR TELCEL (GVT),VERTICAL PRIVADA,Gestion Vehicular Telcel (Gvt),16. Soluciones de Negocio,6. Sol de Negocio,SACTEL
+ASPEL ADM,VERTICALES,Aspel,06. Cloud Saas,3. Triara,CECOR
+ASPEL FACTURE,VERTICALES,Aspel,06. Cloud Saas,3. Triara,CECOR
+ASPEL PROD,VERTICALES,Aspel,06. Cloud Saas,3. Triara,CECOR
+COMERCIO ELECTRONICO Y CAMPAÑA DIGITAL,,Comercio Electrónico,06. Cloud Saas,3. Triara,CECOR
+SERVIDOR VIRTUAL AWS,CLOUD IAAS,Nube AWS,05. Cloud Iaas,3. Triara,CECOR
+SWITCH,,Switch,99. Equipo,7. Otros,CECOR
+VIVA INTERNET,,VIVA,14. Sistema Integral de Seguridad,6. Sol de Negocio,CECOR
+SERVICIOS ADMINISTRADOS IT,CONECTIVIDAD,Servicios Administrados de TI,08. Servicios Administrados,3. Triara,CECOR
+RPV Empresarial (MPLS),IP/MPLS,RPV Empresarial,11. RPV,5. Conectividad,FactM
+RPV Corporativo (MPLS),RPV,RPV Corporativa,11. RPV,5. Conectividad,FactM
+Administración y Control Telefónico,Soluciones de Colaboracion,AyCT,02. Colaboración,1. Colaboración,FactM
+"ALM (Fabrica SW, Testing, Staffing)",Verticales y Practicas Tecnologicas,ALM,16. Soluciones de Negocio,6. Sol de Negocio,FactM
+Armonización Contable,Verticales y Practicas Tecnologicas,Armonización Contable,16. Soluciones de Negocio,6. Sol de Negocio,FactM
+BaaS,Cloud Iaas,BaaS,05. Cloud Iaas,3. Triara,FactM
+Capacitación en Mejores Prácticas TI,Verticales y Practicas Tecnologicas,Consultoría en Mejores Prácticas de TI,16. Soluciones de Negocio,6. Sol de Negocio,FactM
+Centro de Operaciones de Seguridad - SOC,Soluciones de Seguridad Informatica,SOC Scitum,09. Seguridad,4. Scitum,FactM
+Claro Drive Negocio,Cloud Saas,Claro Drive Negocio,06. Cloud Saas,3. Triara,FactM
+Combo Negocio Digital,Cloud Saas,Combo Digital Adicionales,06. Cloud Saas,3. Triara,FactM
+Conexión Privada,IP/MPLS,RPV Empresarial,11. RPV,5. Conectividad,FactM
+Correo Negocio,Cloud Saas,Correo Negocios,06. Cloud Saas,3. Triara,FactM
+Coubicación Nivel III,Coubicacion y Hosting,Centros Regionales,07. Coubicación y Hosting,3. Triara,FactM
+CUAD,Soluciones de Colaboracion,CUAD Broadsoft,01. CUAD,1. Colaboración,FactM
+Gestión de Aplicaciones SAP,SAAI - Servicios Administrados,Gestión de Aplicaciones SAP,08. Servicios Administrados,3. Triara,FactM
+Hospedaje Administrado,SAAI - Servicios Administrados,Managed Hosting,08. Servicios Administrados,3. Triara,FactM
+Internet Data,IDE,Internet Directo Negocio,12. Internet,5. Conectividad,FactM
+Internet Directo Negocio (Internet Data),IDE,Internet Directo Negocio,12. Internet,5. Conectividad,FactM
+Nube Azure M,Cloud Iaas,Azure,05. Cloud Iaas,3. Triara,FactM
+Nube Azure T,Cloud Iaas,Azure,05. Cloud Iaas,3. Triara,FactM
+Nube y Gestión SAP,SAAI - Servicios Administrados,Gestión de Aplicaciones SAP,08. Servicios Administrados,3. Triara,FactM
+Página Web,Cloud Saas,Hospedaje Web,06. Cloud Saas,3. Triara,FactM
+RPV Empresarial (Conexión Privada),RPV,RPV Empresarial,11. RPV,5. Conectividad,FactM
+Serv Profesionales de Colaboración,Cloud Saas,Serv Profesionales de Colaboración,02. Colaboración,1. Colaboración,FactM
+Soluciones de Virtualización,SAAI - Servicios Administrados,Nube Privada,05. Cloud Iaas,3. Triara,FactM
+SPA,Soluciones de Seguridad Informatica,SPA,10. Seguridad Paquetizados,4. Scitum,FactM
+VIVA,Vertical Privada,VIVA,14. Sistema Integral de Seguridad,6. Sol de Negocio,FactM
+APIS LEGADOS,VERTICAL PRIVADA,APIS Legados,16. Soluciones de Negocio,6. Sol de Negocio,SACTEL
+NUBE EMPRESARIAL TELMEX,CLOUD IAAS,Nube Empresarial Telmex,05. Cloud Iaas,3. Triara,SACTEL
+HIPERCONECTIVIDAD A NUBES - AWS,HIPERCONECTIVIDAD A NUBES,Hiperconectividad a Nubes - AWS,11. RPV,5. Conectividad,SACTEL
+HIPERCONECTIVIDAD A NUBES - MS AZURE,HIPERCONECTIVIDAD A NUBES,Hiperconectividad a Nubes - MS Azure,11. RPV,5. Conectividad,SACTEL
+I-DATA BAJO DEMANDA,CONECTIVIDAD,IDN Bajo Demanda,12. Internet,5. Conectividad,CECOR
+NUBE PUBLICA EMPRESARIAL TELMEX,CLOUD IAAS,Nube Publica Empresarial Telmex,05. Cloud Iaas,3. Triara,SACTEL
+I-DATA RENOVACION,CONECTIVIDAD,IDN Renovacion,12. Internet,5. Conectividad,CECOR
