@@ -81,12 +81,17 @@ if(length(c)>0){
     
     b2 <- rbind(c1,s1,b1)
     b2$periodo <- as.Date(paste(c[i],"01")," %y%m%d")
-    
+    b2$Categoria <- ""
+    b2[Tipo %in% c("DISPOSITIVOS") & !(Producto %in% c("CLOUDPBX","COMUNICACIONES UNIFICADAS AVANZADAS"))]$Categoria <- "Dispositivos"
+    b2[Tipo %in% c("TELEFONO") & Producto %in% c("CLOUDPBX","COMUNICACIONES UNIFICADAS AVANZADAS")]$Categoria <- "Teléfonos"
+    b2[Tipo %in% c("I-DATA","IDE","TKIP","RPS","RPV","IDN BAJO DEMANDA","IDE BAJO DEMANDA","ADSL","VDSL") ]$Categoria <- "Conectividad"
+    b2[Tipo %in% c("sitios") ]$Categoria <- "Sitios"
+      
     fwrite(data.frame(c[i]),"Periodos_cargados.txt",append = TRUE)
     inv_opera <- rbind(inv_opera,b2)
   }
   inv2 <- spread(inv_opera,periodo,Cantidad)
-  names(inv2) <- c(names(inv2)[1:3],paste0("O",names(inv2)[-(1:3)]))
+  names(inv2) <- c(names(inv2)[1:4],paste0("O",names(inv2)[-(1:4)]))
 }
 
 setwd(paste0(direcc,"insumos/a_p/"))

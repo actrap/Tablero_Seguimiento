@@ -7,8 +7,8 @@ library(htmltools)
 library(DT)
 library(lubridate)
 
-#a <- "C:/Users/larcos/M_Empresarial/Analisis/Ventas/Aplicaciones/Tablero_Seguimiento/"
-a <- "C:/Users/vmorenoa/Documents/R proyectos/pruebas/"
+a <- "C:/Users/larcos/M_Empresarial/Analisis/Ventas/Aplicaciones/Tablero_Seguimiento/"
+#a <- "C:/Users/vmorenoa/Documents/R proyectos/pruebas/"
 #b <- "/srv/shiny-server/tablero_seguimiento/"
 b <- "/srv/shiny-server/pruebas/"
 
